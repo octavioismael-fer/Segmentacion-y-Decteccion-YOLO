@@ -1,0 +1,5 @@
+train: C:\Users\PC\Documents\Proyectos\Yolo\Data\train\
+val: C:\Users\PC\Documents\Proyectos\Yolo\Data\val\
+test: 
+nc: 1
+names: ["Telefono"]
